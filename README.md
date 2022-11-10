@@ -15,4 +15,5 @@ styles\home.module.css
 * vercel
 ```
 sudo npm i -g vercel
+vercel
 ```
